@@ -15,7 +15,8 @@
     - evite se tornar um programador alfabeto ou um programador contador
 */
 
-//em js existem tipos de dados
+//em Js existem tipos de dados
+/*
 - string // palavras q tem "" '' e ``
 - boolean // verdadeiro ou falso
 - number // numeros
@@ -23,3 +24,4 @@
 - undefined
 - object
 - function
+*/
